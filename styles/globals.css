@@ -6,7 +6,7 @@
 @tailwind utilities;
 
 .nft-gradient {
-   background: linear-gradient(101.12deg, #EB1484 27.35%, #C91CC3 99.99%, #C81CC5 100%, #C81CC5 100%);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 2%, rgba(198,214,236,1) 100%);
 }
 
 .white-bg {
